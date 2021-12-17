@@ -1,0 +1,18 @@
+p {
+  background-color: orange;
+}
+.principal {
+  font-size: 60px;
+  font-style: italic;
+}
+
+img {
+  width: 80%;
+  display: block;
+  margin: auto;
+  border-block-end-color: red;
+}
+
+button {
+  background-color: green;
+}
